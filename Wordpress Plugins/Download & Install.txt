@@ -1,0 +1,15 @@
+1. Download all plugins from: http://taydomobile.com/wooapp_plugins
+2. Install ONE plugins: wooconnector-package.zip
+(This package will automatic install all necessary plugins)
+or 
+Manual Install each plugins:
+- wp-user-avatar
+- wpcustom-category-image
+- post-views-counter
+- rest-api
+- jwt-authentication-for-wp-rest-api
+- woo-slider
+- mobiconnector
+- wooconnector
+- modernshop
+3. Please read our document for config jwt-authentication-for-wp-rest-api plugins
